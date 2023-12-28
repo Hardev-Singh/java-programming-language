@@ -1,0 +1,15 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class TraingleExceptionTestProgram {
+  public static void main(String[] args) { 
+    try{
+      IllegalTraingleException triangleException = 
+        new IllegalTraingleException(0,0,0);
+    }
+    catch(IllegalTraingleException exception){
+     System.out.println("dvhjsgwvh"); 
+     exception.printStackTrace();
+    }
+  }
+}
